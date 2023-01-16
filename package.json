@@ -1,0 +1,21 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "this is a multiplication tables generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "tables",
+    "multiplication",
+    "node",
+    "colors"
+  ],
+  "author": "Carlos Henao",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  }
+}
