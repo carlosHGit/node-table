@@ -1,9 +1,9 @@
 # Description
   this program allows you to create multiplication tables in text files
 # requirements
-Node
-Colors
-yargs
+- Node
+- Colors
+- yargs
 # bash options
 ```
   Options:
